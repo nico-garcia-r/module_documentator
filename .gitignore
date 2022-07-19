@@ -1,0 +1,4 @@
+.env
+.vscode
+Manual_*
+.pytest_cache
